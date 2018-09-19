@@ -1,0 +1,18 @@
+{
+    "name": "wendell/questao_02",
+    "require-dev": {
+        "phpunit/phpunit": "^4"
+    },
+    "authors": [
+        {
+            "name": "wendellwoney",
+            "email": "wendellwoneys@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Wendell\\Questao02\\": "src"
+        }
+    },
+    "require": {}
+}
