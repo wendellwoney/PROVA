@@ -126,4 +126,8 @@ http://localhost/questao_04/
 ```
 Acesso a Aplicação
 http://localhost/questao_04_site/
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 7f2d17736da1db990c4a203d80a58c79bf107f7b
