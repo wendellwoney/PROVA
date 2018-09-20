@@ -107,12 +107,12 @@ Diferenciais:
 pacote de Icons Font Awesome.
 
 
-### Requisitos para a API
+## Requisitos para a API
 * HTTP Server. Por exemplo: Apache. Mod_rewrite ativado.
 * PHP 5.3 ou superior.
 * MySQL
 
-### Instalação e teste
+# Instalação e teste
 
 Uma vez que o repositório esteja clonado na raiz de um servidor apache funcional com PHP mínimo 5.3 instalado,
 crie o banco de dados tarefa no servidor mysql, considerando que o banco de dados tenha sido criado com o nome definido (tarefa), execute o seguinte comando para criação das tabelas "php vendor\doctrine\orm\bin\doctrine.php orm:schema-tool:create" 
